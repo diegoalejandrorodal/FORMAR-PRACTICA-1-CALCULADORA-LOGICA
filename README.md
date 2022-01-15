@@ -9,7 +9,7 @@ La calculadora contará con 4 funciones básicas:
 ● Multiplicar
 ● Dividir
 
-1
+
 
 ## **Micro desafíos - Paso I**
 
@@ -38,7 +38,7 @@ función retornará "No se puede dividir por cero".
 Para verificar que hasta aquí viene todo bien, recomendamos probar cada una de las
 funciones y testear su correcto funcionamiento.
 
-2
+
 
 ## **Micro desafíos - Paso II**
 
@@ -64,7 +64,7 @@ Sin embargo, nos invita a pensar...
 a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
 matemática, hubiésemos programado todo en un mismo archivo?
 
-3
+
 
 b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
 c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
