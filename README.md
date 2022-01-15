@@ -1,4 +1,4 @@
-# FORMAR-PRACTICA-1-CALCULADORA-LOGICA-
+# FORMAR-PRACTICA-1-CALCULADORA-LOGICA
 ## **PRACTICA INTEGRADORA 1:MINI APP CALCULADORA**
 Objetivo
 Vamos a programar una calculadora sencilla con los conocimientos que hemos adquirido
